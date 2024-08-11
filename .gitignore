@@ -2,7 +2,7 @@
 .DS_Store
 reconstructed_images/*
 mnist/*
-.venv/*
+.venv/
 __pycache__/*
 log.txt
 runs/*
